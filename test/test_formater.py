@@ -1,6 +1,6 @@
 from hello_world.formater import plain_text_upper_case
 import unittest
-ebe ebebebbebe
+
 
 class TestFormater(unittest.TestCase):
     def test_plain_uppercase(self):
